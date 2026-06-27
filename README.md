@@ -79,19 +79,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
----
 
-## 🏆 Certifications
-
-| Certificate | Platform |
-|-------------|----------|
-| Python Bootcamp | Udemy |
-| MySQL Certificate | SimpliLearn |
-| Python for Data Science | NPTEL |
-| Linux Workshop | Hands-on |
-| Python Certificate | HackerRank |
-
----
 
 ## 🌐 Connect With Me
 
@@ -105,9 +93,7 @@
   <a href="mailto:kruthikbalusu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/bkruthik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
 </p>
 
 ---
