@@ -67,19 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkruthik&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkruthik&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
@@ -93,4 +80,4 @@
 
 ---
 
-<p align="center">⭐ <i>Feel free to explore my repositories and don't forget to star if you find something useful!</i> ⭐</p>
+<p align="center"><i>Always happy to connect and collaborate.</i></p>
