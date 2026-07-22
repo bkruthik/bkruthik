@@ -1,107 +1,127 @@
-# Hi there, I'm Balusu Kruthik 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+Developer;Python+%26+Django+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=210&section=header&text=Balusu%20Kruthik&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20Database%20Focused%20Software%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Python+%7C+MySQL+%7C+Django+(Learning);Building+CRUD-driven+Backend+Systems;OOP+%7C+Database+Design+%7C+Clean+Code;Open+to+Internship+%2F+Entry-Level+Opportunities" alt="Typing SVG" />
 
-## 🙋‍♂️ About Me
+<br/>
 
-- 🎓 B.Tech in **Computer Science Engineering** @ Sreyas Institute of Engineering and Technology, Hyderabad *(2023–2027)*
-- 💻 Passionate about **Backend Development** and building real-world web applications
-- 🌱 Currently learning **Django** and deepening my knowledge in **AI & ML**
-- 🛠️ I enjoy working with **Python, MySQL, Django, HTML, CSS & JavaScript**
-- 📍 Based in **Hyderabad, Telangana, India**
-- 📫 Reach me at **kruthikbalusu@gmail.com**
+[![Location](https://img.shields.io/badge/📍-Hyderabad,_India-2C5364?style=flat-square)](#)
+[![Status](https://img.shields.io/badge/Status-Open_to_Opportunities-0f2027?style=flat-square)](#)
 
----
+</div>
 
-## 🚀 Tech Stack
+<br/>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+## About
 
----
+I'm a Computer Science undergraduate focused on **backend development and database design**. I work primarily with **Python** and **MySQL**, and I'm currently building web applications with **Django**. I care about writing clean, well-structured code — solid OOP design, proper CRUD architecture, and efficient queries — over quick, throwaway solutions.
 
-## 📂 Featured Projects
+- 🔧 Currently building backend projects with Django and MySQL
+- 📚 Deepening my understanding of Django ORM and REST-based backend design
+- 💡 Comfortable across Linux and Windows environments for development
+- 🎯 Looking to contribute to real-world backend / full-stack teams
 
-### 🎓 [Student Result Management System](https://github.com/bkruthik/Student_Result_Management_System)
-> CLI app to manage student records and results using Python, MySQL & OOP
-- Add, update, delete, and view student records and results
-- MySQL JOIN queries to fetch student details with subject results
-- Grade logic and pass/fail calculation using OOP
+<br/>
 
-**Tech:** `Python` `MySQL` `OOP` `CLI`
+## Tech Stack
 
----
+<div align="center">
 
-### 📚 [Library Book Management System](https://github.com/bkruthik/Library_Book_Management_System)
-> Full CRUD library management system with OOP design
-- Managed book records and member borrowing with full CRUD operations
-- MySQL foreign key links between books, members, and transactions
-- OOP classes (Book, Member, Library) with SQL search and overdue tracking
+**Languages**
 
-**Tech:** `Python` `MySQL` `OOP`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
+**Web & Framework**
 
-### 💰 [Personal Expense Tracker Web App](https://github.com/bkruthik/personal_expense_tracker)
-> Django web app to track daily expenses with full CRUD
-- Built with Django where users can add, edit, delete, and view daily expenses
-- Django models connected to MySQL using Django ORM
-- Forms and views with Django templates and HTML/CSS
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-**Tech:** `Python` `Django` `MySQL` `HTML` `CSS` `Git`
+**Database & ORM**
 
----
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-## 📊 GitHub Stats
+**Tools & Platforms**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bkruthik&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkruthik&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
+**Operating Systems**
 
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🌐 Connect With Me
+**Python Libraries**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kruthik-b-498488344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://bkruthik.github.io/Kruthik_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F7A800?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>
-  <a href="mailto:kruthikbalusu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/bkruthik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bkruthik&color=F7A800&style=for-the-badge" alt="Profile Views"/>
-</p>
+<br/>
 
-<p align="center">⭐ <i>Feel free to explore my repositories and don't forget to star if you find something useful!</i> ⭐</p>
+## Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Student Result Management System**
+`Python` `MySQL` `OOP` `CLI`
+
+CLI application to manage student records and results using MySQL JOIN queries, with grade and pass/fail logic built through OOP.
+
+[View Repository →](https://github.com/bkruthik/student-result-management-system)
+
+</td>
+<td width="33%" valign="top">
+
+**Library Book Management System**
+`Python` `MySQL` `OOP`
+
+Manages books, members, and borrowing with full CRUD operations, foreign-key linked MySQL tables, and OOP-based class design.
+
+[View Repository →](https://github.com/bkruthik/library-book-management-system)
+
+</td>
+<td width="33%" valign="top">
+
+**Personal Expense Tracker**
+`Python` `Django` `MySQL` `HTML/CSS`
+
+Django web app for adding, editing, and tracking daily expenses, using Django ORM models and templates connected to MySQL.
+
+[View Repository →](https://github.com/bkruthik/personal-expense-tracker-django)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## GitHub Analytics
+
+<div align="center">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=bkruthik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&text_color=c9d1d9"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bkruthik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2c5364&text_color=c9d1d9"/>
+</div>
+
+<br/>
+
+## Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=balusukruthik@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthik-b-498488344/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bkruthik.github.io/Kruthik_Portfolio/)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
