@@ -67,6 +67,14 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+---
+
 ## 🌐 Connect With Me
 
 <p align="left">
