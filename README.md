@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Balusu%20Kruthik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%26%20Django&descAlignY=55&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Balusu%20Kruthik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20-%20Python%20and%20Django&descAlignY=55&descSize=18" />
 
 <p align="center">
   <a href="https://github.com/bkruthik">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E3192&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+%7C+Django+%7C+MySQL;Building+real-world+web+applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E3192&center=true&vCenter=true&width=500&lines=Backend+Developer;Python+and+Django+and+MySQL;Building+real-world+web+applications" alt="Typing SVG" />
   </a>
 </p>
 
