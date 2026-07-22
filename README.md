@@ -81,18 +81,6 @@
 
 ---
 
-## 🏆 Certifications
-
-| Certificate | Platform |
-|-------------|----------|
-| Python Bootcamp | Udemy |
-| MySQL Certificate | SimpliLearn |
-| Python for Data Science | NPTEL |
-| Linux Workshop | Hands-on |
-| Python Certificate | HackerRank |
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
