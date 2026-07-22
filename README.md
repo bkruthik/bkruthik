@@ -13,7 +13,6 @@
 - 🌱 Currently learning **Django** and deepening my knowledge in **AI & ML**
 - 🛠️ I enjoy working with **Python, MySQL, Django, HTML, CSS & JavaScript**
 - 📍 Based in **Hyderabad, Telangana, India**
-- 📫 Reach me at **kruthikbalusu@gmail.com**
 
 ---
 
@@ -76,44 +75,22 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
-
----
-
-## 🏆 Certifications
-
-| Certificate | Platform |
-|-------------|----------|
-| Python Bootcamp | Udemy |
-| MySQL Certificate | SimpliLearn |
-| Python for Data Science | NPTEL |
-| Linux Workshop | Hands-on |
-| Python Certificate | HackerRank |
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/kruthik-b-498488344/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://bkruthik.github.io/Kruthik_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-F7A800?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-  </a>
-  <a href="mailto:kruthikbalusu@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kruthikbalusu@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/bkruthik" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/kruthik-b-498488344/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bkruthik&color=F7A800&style=for-the-badge" alt="Profile Views"/>
-</p>
 
 <p align="center">⭐ <i>Feel free to explore my repositories and don't forget to star if you find something useful!</i> ⭐</p>
