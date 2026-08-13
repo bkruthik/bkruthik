@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎓 B.Tech in **Computer Science Engineering** @ Sreyas Institute of Engineering and Technology, Hyderabad *(2023–2027)*
+- 🎓 B.Tech in **Computer Science Engineering**
 - 💻 Passionate about **Backend Development** and building real-world web applications
 - 🌱 Currently learning **Django** and deepening my knowledge in **AI & ML**
 - 🛠️ I enjoy working with **Python, MySQL, Django, HTML, CSS & JavaScript**
