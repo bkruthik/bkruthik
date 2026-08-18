@@ -70,7 +70,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=bkruthik&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://raw.githubusercontent.com/bkruthik/bkruthik/main/streak-stats.svg" width="60%"/>
 </p>
 
 ---
