@@ -70,7 +70,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bkruthik/bkruthik/main/streak-stats.svg" width="60%"/>
+<img src="./profile/streak.svg" alt="GitHub Streak" width="60%"/>
 </p>
 
 ---
