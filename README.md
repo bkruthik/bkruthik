@@ -1,7 +1,7 @@
 # Hi there, I'm Balusu Kruthik 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Backend+Developer;Python+%26+Django+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A800&center=true&vCenter=true&width=500&lines=Computer+Science+(AI&ML)+Student;Backend+Developer;Python+%26+Django+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
