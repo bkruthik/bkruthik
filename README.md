@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech in **Computer Science Engineering**
 - 💻 Passionate about **Backend Development** and building real-world web applications
-- 🌱 Currently learning **Django** and deepening my knowledge in **AI & ML**
+- 🌱 Currently learning **Artificial Intelligence and Machine Learning (AI/ML).**
 - 🛠️ I enjoy working with **Python, MySQL, Django, HTML, CSS & JavaScript**
 - 📍 Based in **Hyderabad, Telangana, India**
 
